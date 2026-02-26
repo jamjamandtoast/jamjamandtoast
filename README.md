@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jamjamandtoast
 - I go by Jams and will be referncing myself as jams and toast for all projects!
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on any exciting fun websites to expand my portfilo
+- 💞️ I’m looking to collaborate on any exciting fun websites to expand my portfilo or just for fun!
 - 📫 How to reach me jamys.roblero0@gmail.com or discord @jamjam
 
 <!---
